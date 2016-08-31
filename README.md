@@ -1,2 +1,2 @@
-# brl-blog-tutorial-part-1
+# AppsMade4U blog
 http://brickriverlab.com/#/article/make-a-blog-with-angularjs-firebase-markdown-part1
