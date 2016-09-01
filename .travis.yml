@@ -1,5 +1,6 @@
 Language: node_js
   --"4.0"
+sudo: required
 Script:
   -- echo "Deploying"
 after_success:
